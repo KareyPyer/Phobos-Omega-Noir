@@ -1,0 +1,20 @@
+============================================================
+  DIFFUSION PROMPT - Occult Manuscript
+============================================================
+
+POSITIVE PROMPT:
+------------------------------------------------------------
+Occult Manuscript poster design, ancient occult manuscript page, mystical symbols, parchment texture, esoteric diagram, central glyph: highly complex concentric rings with dodecagonal symmetry symmetry, colors: red, crimson, magenta, glowing center, mandala-like pattern, visual elements: central symbol: grid symbol, matrix of intersecting lines; runic element: Algiz rune, protection/elk symbol from Elder Futhark; memetic effect: memetic effect 'recursive mirror effect'; DNA code number: 950400; philosophical quote: "END OF TRANSMISSION"; footer warning text: SCANNING OBSERVER... BIASES DETECTED... NO EXIT in red, mystical glow, alchemical ink, hand-drawn symbols, ultra detailed, intricate patterns, mystical atmosphere
+
+NEGATIVE PROMPT:
+------------------------------------------------------------
+modern, digital, cartoon, simplistic
+
+PARAMETERS:
+------------------------------------------------------------
+  aspect_ratio: 9:16
+  seed: 950400
+  cfg_scale: 7-9
+  steps: 30-50
+
+============================================================
